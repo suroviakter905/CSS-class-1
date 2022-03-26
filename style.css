@@ -1,0 +1,12 @@
+marquee{
+    color:fuchsia;
+    background-color: lawngreen;
+    font-size: 25px;
+}
+
+p{
+    text-align: justify;
+    color: white;
+    background-color:crimson;
+    font-size: 18px;
+}
